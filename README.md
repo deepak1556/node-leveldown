@@ -1,7 +1,7 @@
 LevelDOWN
 =========
 
-![LevelDB Logo](https://twimg0-a.akamaihd.net/profile_images/3360574989/92fc472928b444980408147e5e5db2fa_bigger.png)
+<img alt="LevelDB Logo" height="100" src="http://leveldb.org/img/logo.svg">
 
 A Low-level Node.js LevelDB binding
 -------------------------
